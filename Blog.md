@@ -1,30 +1,37 @@
-#### Awesome Cookie Recipe
+#### Family European Vacation 2018
 
-This is my family recipe handed down through the _generations_.  It has been the favorite for years in the past and now into the future!  _Caution_, you may not be able to eat just one.
+While my nephew was completing his schooling in France, the family decided to make a trip to see the sights and sounds of the Christmas markets in France and Germany.
 
-#### Ingredients
+#### Cities visited
 
-* Butter
-* White Sugar
-* Brown Sugar
-* Eggs
-* Vanilla
-* Salt
-* Flour
-* Baking Soda
-* Chocolate Chip
-* Oatmeal
-* M and Ms
-* Coconut
+* Strasbourg, France
+* Baden Baden, Germany
+* Paris, France
+* Colmar, France
+* Freiburg, Germany
 
-#### Steps
+#### Trip Highlights
 
-1. Preheat oven to _325_
-2. Beat butter, sugar, eggs and vanilla together until creamy.
-3. Mix together flour, baking soda and salt in a separate bowl.
-4. Add flour mixture to better mixture slowly.
-5. Stir in chocolate chips, oatmeal, coconut and m and ms.
-6. Bake for 10 minutes or until golden brown.
+1. France
+    * Old City of Strasbourg, Christmas Markets and Notre Dame Cathedral.
+    * The Louvre
+    * Notre Dame
+    * Louis XIV Palace of Versailles
+    * Eiffel Tower
+    * Pantheon
+
+2. Germany
+    * Christmas Markets
+    * Home of the creation of the Statue of Liberty
+
+
+Notre Dame
+
+![Notre Dame Paris] (https://en.wikipedia.org/wiki/Notre-Dame_de_Paris)
+
+
+![Eiffel Tower] (https://www.toureiffel.paris/en)
+
 
 
 
