@@ -33,6 +33,9 @@ Notre Dame
 ![Eiffel Tower] (https://www.toureiffel.paris/en)
 
 
+<p>To see additional pictures of <a href="https://en.wikipedia.org/wiki/Notre-Dame_de_Paris" title="Notre Dame Paris">Notre Dame</a> or <a href="https://en.wikipedia.org/wiki/Eiffel_Tower" title="Eiffel Tower">Eiffel Tower</a> click here.</p>
+
+
 
 
 
